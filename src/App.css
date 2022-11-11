@@ -1,9 +1,38 @@
 /* Add styling for your page here */
 
 .App {
-
 }
 
 .BakeryItem {
-  
+}
+
+img {
+  width: 300px;
+  height: 250px;
+}
+
+.ItemDescriptions {
+  font-weight: 800;
+  font-style: italic;
+}
+
+.ItemDescriptors {
+  padding-bottom: 20px;
+}
+
+h1 {
+  padding-left: 30px;
+}
+
+.ItemInfo {
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+div {
+  padding-left: 30px;
+}
+
+button {
+  margin-bottom: 30px;
 }
